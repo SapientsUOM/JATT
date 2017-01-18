@@ -1,0 +1,10 @@
+flagname
+HeapDumpOnOutOfMemoryError
+SoftRefLRUPolicyMSPerMB
+MaxDirectMemorySize
+UseLargePages
+LargePageSizeInBytes
+StringTableSize
+UseCompressedOops
+TLABSize
+ResizeTLAB

@@ -1,0 +1,7 @@
+flagname
+UseSerialGC
+UseParallelOldGC
+UseParallelGC
+UseConcMarkSweepGC
+UseParNewGC
+UseG1GC

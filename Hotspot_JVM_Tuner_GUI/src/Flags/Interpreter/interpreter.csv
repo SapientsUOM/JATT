@@ -1,0 +1,12 @@
+flagname
+UseInterpreter
+UseNiagaraInstrs
+UseLoopCounter
+UseFastEmptyMethods
+UseFastAccessorMethods
+ProfileMaturityPercentage
+RewriteBytecodes
+RewriteFrequentPairs
+UseOnStackReplacement
+PreferInterpreterNativeStubs
+ProfileInterpreter

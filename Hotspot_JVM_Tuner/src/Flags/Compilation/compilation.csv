@@ -1,0 +1,10 @@
+flagname
+UseCompiler
+UseCounterDecay
+AlwaysCompileLoopMethods
+DontCompileHugeMethods
+CompileThreshold
+BackEdgeThreshold
+OnStackReplacePercentage
+InterpreterProfilePercentage
+TieredCompilation
