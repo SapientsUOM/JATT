@@ -1,0 +1,7 @@
+flagname,default
+UseSerialGC,true
+UseParallelOldGC,false
+UseParallelGC,false
+UseConcMarkSweepGC,false
+UseParNewGC,false
+UseG1GC,false

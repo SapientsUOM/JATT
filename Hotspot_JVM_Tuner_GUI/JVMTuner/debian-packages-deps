@@ -1,0 +1,7 @@
+build-essential
+git
+gnuplot
+libpng-dev
+libsqlite3-dev
+python-dev
+sqlite3

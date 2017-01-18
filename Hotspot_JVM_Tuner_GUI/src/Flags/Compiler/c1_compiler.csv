@@ -1,0 +1,14 @@
+flagname
+ValueMapInitialSize
+ValueMapMaxLoopSize
+TimeLinearScan
+LIRFillDelaySlots
+CompilationRepeat
+C1ProfileCalls
+C1ProfileVirtualCalls
+C1ProfileInlinedCalls
+C1ProfileBranches
+C1ProfileCheckcasts
+C1OptimizeVirtualCallProfiling
+C1UpdateMethodData
+SafepointPollOffset

@@ -1,0 +1,9 @@
+flagname
+CodeCacheMinimumFreeSpace
+UseCodeCacheFlushing
+MinCodeCacheFlushingInterval
+CodeCacheFlushingMinimumFreeSpace
+OptoLoopAlignment
+InitialCodeCacheSize
+ReservedCodeCacheSize
+CodeCacheExpansionSize
